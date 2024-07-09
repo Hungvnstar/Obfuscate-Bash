@@ -1,1 +1,1 @@
-"# Sub-Bash" 
+# Powerful bash obfuscate!
